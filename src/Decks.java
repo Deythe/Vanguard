@@ -14,17 +14,20 @@ public class Decks {
         for(int i =0; i<50; i++){
             this.listeCarte.add(new Cartes(this.name, i));
         }
+        this.melangeDeck();
     }
 
-   public ArrayList<Cartes> melangéDeck() {
-       ArrayList<Cartes> deckMélangé = new ArrayList<>();
-       for(int i=0; i<this.getListeCarte().size(); i++){
-           int taille=this.getListeCarte().size();
-           int choix=(int) (Math.random() * taille)+1;
-           deckMélangé.set(i,this.getListeCarte().get(choix));
+   public void melangeDeck() {
+       ArrayList<Cartes> deckMelange = new ArrayList<>();
+       int taille=this.getListeCarte().size();
+
+       for(int i=0; i<taille; i++){
+           int choix=(int)(Math.random()*this.getListeCarte().size());
+           deckMelange.add(this.getListeCarte().get(choix));
            this.getListeCarte().remove(choix);
        }
-       this.listeCarte=deckMélangé;
+
+       this.listeCarte=deckMelange;
    }
 
    public ArrayList<Cartes> getListeCarte() {

@@ -7,6 +7,7 @@ public class Players {
     private ArrayList<Cartes> main;
     private ArrayList<Cartes> defausse;
     private Terrain terrain;
+    private int blast;
 
     public Players() {
         System.out.println("Veuillez choisir un nom pour cette partie");
@@ -15,6 +16,7 @@ public class Players {
         this.main = null;
         this.defausse = null;
         this.terrain=new Terrain(this);
+        this.blast=0;
         System.out.println("Bonjour "+this.name);
     }
 
@@ -48,5 +50,7 @@ public class Players {
         return this.terrain;
     }
 
-
+    public int getBlast() {
+        return blast;
+    }
 }

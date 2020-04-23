@@ -4,9 +4,9 @@ public class Main {
         Players p1 = new Players();
         Menu.choixDeckPlayer(p1);
         p1.getTerrain().initTerrain();
-        Phases.drawPhase(p1);
-        System.out.println(p1.getTerrain().getTableJoueur()[0][1]);
-        Phases.ridePhase(p1);
-        System.out.println(p1.getTerrain().getTableJoueur()[0][1]);
+        for(int i=0; i<6; i++){
+            Phases.drawPhase(p1);
+            Phases.ridePhase(p1);
+        }
     }
 }
