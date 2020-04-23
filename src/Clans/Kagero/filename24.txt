@@ -1,0 +1,11 @@
+1
+Embodiment of Armor, Bahr
+10000
+8000
+null
+false
+boost
+kagero
+1
+Demon
+true

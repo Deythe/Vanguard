@@ -1,0 +1,11 @@
+0
+Lizard Runner, Undeux
+10000
+6000
+null
+false
+boost
+kagero
+1
+dragonman
+true

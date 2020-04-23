@@ -1,0 +1,11 @@
+3
+Dragonic Overlord
+0
+13000
+null
+true
+twinDrive
+kagero
+1
+Flame Dragon
+true

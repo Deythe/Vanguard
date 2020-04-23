@@ -1,0 +1,11 @@
+2
+Dragon Armored Knight
+10000
+5000
+null
+false
+intercept
+kagero
+1
+Human
+true

@@ -1,0 +1,11 @@
+0
+Red Gem Carbuncle 
+5000
+5000
+draw
+false
+boost
+kagero
+1
+High Beast
+false

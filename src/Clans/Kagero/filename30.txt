@@ -1,0 +1,11 @@
+1
+Guard Griffi
+7000
+-1
+null
+false
+boost
+kagero
+1
+Chimera
+true

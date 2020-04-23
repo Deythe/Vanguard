@@ -1,0 +1,11 @@
+0
+Dragon Monk, Genjo
+20000
+5000
+heal
+false
+boost
+kagero
+1
+Human
+false

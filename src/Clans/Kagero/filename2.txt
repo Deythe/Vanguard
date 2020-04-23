@@ -1,0 +1,11 @@
+0
+Demonic Dragon Mage, Rakshasa
+15000
+5000
+crit
+false
+boost
+kagero
+1
+Dragonman
+false

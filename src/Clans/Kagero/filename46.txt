@@ -1,0 +1,11 @@
+3
+Crested Dragon
+13000
+0
+null
+true
+twindrive
+kagero
+1
+Flame Dragon
+true

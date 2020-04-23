@@ -1,0 +1,11 @@
+2
+Embodiment of Shield, Lahm
+10000
+10000
+null
+false
+intercept
+kagero
+1
+Demon
+true

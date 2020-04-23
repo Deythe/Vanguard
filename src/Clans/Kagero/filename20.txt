@@ -1,0 +1,11 @@
+1
+Dragon Knight, Burj
+10000
+6000
+null
+false
+boost
+kagero
+1
+Human
+true
